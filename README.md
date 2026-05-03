@@ -286,4 +286,5 @@ System Status: SUCCESS
 
 ## License
 
-This project is currently provided as a personal automation project. Add a license file if you plan to distribute or open-source it.
+This project is currently provided as a personal automation project. 
+Owned and managed by Akash Majudmar
